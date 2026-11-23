@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "RTL Implementation and Simulation-Based Verification of the SPECK32/64 Lightweight Block Cipher with an ESP32 Display Demonstrator for IoT Security"
+type: software
+license: MIT
+authors:
+  - family-names: "H B"
+    given-names: "Abhinaya"
+    affiliation: "East West Institute of Technology, Bengaluru, India"
+  - family-names: "Sindhu Shree"
+    given-names: "B Kirana"
+    affiliation: "East West Institute of Technology, Bengaluru, India"
+  - family-names: "B"
+    given-names: "Bhakthi"
+    affiliation: "East West Institute of Technology, Bengaluru, India"
+  - family-names: "D V"
+    given-names: "Likitha"
+    affiliation: "East West Institute of Technology, Bengaluru, India"
+keywords: [SPECK, lightweight cryptography, Verilog, IoT security, ESP32]
